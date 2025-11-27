@@ -12,7 +12,7 @@ A designed web app that helps you enhance, transform, and reimagine  images all 
 Supports multiple editable layers with adjustable opacity and visibility control.
 
 - Comprehensive Editing Tools
-   1.Includes essential and advanced features:
+   1. Includes essential and advanced features:
 
    2. Adjustments: Brightness, contrast, saturation, hue
 
