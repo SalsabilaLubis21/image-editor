@@ -1,0 +1,10 @@
+/* Keep keyframes for now, but most other styles are now handled by MUI theme */
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
